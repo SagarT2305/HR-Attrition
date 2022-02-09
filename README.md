@@ -21,15 +21,15 @@ for predicting Monthly Rate:
 1. Linear Regression 
 2. Lasso 
 3. Ridge
-4. DecisionTreeRegressor
-5. RandomForestRegressor
-6. AdaBoostRegressor
+4. DecisionTreeRegressor with Pruning 
+5. RandomForestRegressor with Pruning
+6. AdaBoostRegressor 
 7. KNeighborsRegressor
 
 for predicting Attrition status:
 1. LogisticRegression
-2. DecisionTreeClassifier
-3. RandomForestClassifier
+2. DecisionTreeClassifier with Pruning
+3. RandomForestClassifier with Pruning
 4. AdaBoostClassifier
 5. GaussianNB
 6. keras Tuner 
